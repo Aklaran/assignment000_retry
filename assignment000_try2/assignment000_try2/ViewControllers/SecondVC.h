@@ -11,6 +11,6 @@
 @interface SecondVC: UIViewController
 @property (weak, nonatomic) IBOutlet UILabel *changeIt;
 @property (strong, nonatomic) NSString *changeLabel;
-@property (assign, nonatomic) BOOL *backgroundBool;
+@property (assign, nonatomic) BOOL backgroundBool;
 
 @end

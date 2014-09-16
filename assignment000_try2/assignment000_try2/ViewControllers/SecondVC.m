@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Bo Assignment. All rights reserved.
 //
 
-#import "SecondVC.h"
+#import "SecondVC.h"1
 #import "FirstVC.h"
 
 @interface SecondVC ()
